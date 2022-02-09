@@ -44,4 +44,4 @@ New-Item -ItemType File $profile
 
 ## Credits
 
-Created using [gluons](https://github.com/gluons) [yarn-completion](https://github.com/PowerShell-Completion/yarn-completion/)
+Created using [gluons's](https://github.com/gluons) [yarn-completion](https://github.com/PowerShell-Completion/yarn-completion/)
